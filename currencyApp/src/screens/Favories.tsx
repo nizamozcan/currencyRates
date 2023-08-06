@@ -3,6 +3,7 @@ import { Text, View } from "react-native";
 import { useSelector } from "react-redux";
 
 export const Favories=()=>{
+    //merhabalar
   const {Lanquage,GeneralDataReduces}=useSelector(state=>state)
   return(
     <View>
