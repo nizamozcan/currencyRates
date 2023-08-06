@@ -1,0 +1,1020 @@
+{
+  Data: [
+    {
+      "key": "AFN",
+      "title": "AF"
+    },
+    {
+      "key": "EUR",
+      "title": "AX"
+    },
+    {
+      "key": "ALL",
+      "title": "AL"
+    },
+    {
+      "key": "DZD",
+      "title": "DZ"
+    },
+    {
+      "key": "USD",
+      "title": "AS"
+    },
+    {
+      "key": "EUR",
+      "title": "AD"
+    },
+    {
+      "key": "AOA",
+      "title": "AO"
+    },
+    {
+      "key": "XCD",
+      "title": "AI"
+    },
+    {
+      "key": "USD",
+      "title": "AQ"
+    },
+    {
+      "key": "XCD",
+      "title": "AG"
+    },
+    {
+      "key": "ARS",
+      "title": "AR"
+    },
+    {
+      "key": "AMD",
+      "title": "AM"
+    },
+    {
+      "key": "AWG",
+      "title": "AW"
+    },
+    {
+      "key": "SHP",
+      "title": "AC"
+    },
+    {
+      "key": "AUD",
+      "title": "AU"
+    },
+    {
+      "key": "EUR",
+      "title": "AT"
+    },
+    {
+      "key": "AZN",
+      "title": "AZ"
+    },
+    {
+      "key": "BSD",
+      "title": "BS"
+    },
+    {
+      "key": "BHD",
+      "title": "BH"
+    },
+    {
+      "key": "BDT",
+      "title": "BD"
+    },
+    {
+      "key": "BBD",
+      "title": "BB"
+    },
+    {
+      "key": "BYN",
+      "title": "BY"
+    },
+    {
+      "key": "EUR",
+      "title": "BE"
+    },
+    {
+      "key": "BZD",
+      "title": "BZ"
+    },
+    {
+      "key": "XOF",
+      "title": "BJ"
+    },
+    {
+      "key": "BMD",
+      "title": "BM"
+    },
+    {
+      "key": "INR",
+      "title": "BT"
+    },
+    {
+      "key": "BOB",
+      "title": "BO"
+    },
+    {
+      "key": "BAM",
+      "title": "BA"
+    },
+    {
+      "key": "BWP",
+      "title": "BW"
+    },
+    {
+      "key": "NOK",
+      "title": "BV"
+    },
+    {
+      "key": "BRL",
+      "title": "BR"
+    },
+    {
+      "key": "USD",
+      "title": "IO"
+    },
+    {
+      "key": "USD",
+      "title": "VG"
+    },
+    {
+      "key": "BND",
+      "title": "BN"
+    },
+    {
+      "key": "BGN",
+      "title": "BG"
+    },
+    {
+      "key": "XOF",
+      "title": "BF"
+    },
+    {
+      "key": "BIF",
+      "title": "BI"
+    },
+    {
+      "key": "KHR",
+      "title": "KH"
+    },
+    {
+      "key": "XAF",
+      "title": "CM"
+    },
+    {
+      "key": "CAD",
+      "title": "CA"
+    },
+    {
+      "key": "EUR",
+      "title": "IC"
+    },
+    {
+      "key": "CVE",
+      "title": "CV"
+    },
+    {
+      "key": "KYD",
+      "title": "KY"
+    },
+    {
+      "key": "XAF",
+      "title": "CF"
+    },
+    {
+      "key": "XAF",
+      "title": "TD"
+    },
+    {
+      "key": "CLP",
+      "title": "CL"
+    },
+    {
+      "key": "CNY",
+      "title": "CN"
+    },
+    {
+      "key": "AUD",
+      "title": "CX"
+    },
+    {
+      "key": "AUD",
+      "title": "CC"
+    },
+    {
+      "key": "COP",
+      "title": "CO"
+    },
+    {
+      "key": "KMF",
+      "title": "KM"
+    },
+    {
+      "key": "XAF",
+      "title": "CG"
+    },
+    {
+      "key": "CDF",
+      "title": "CD"
+    },
+    {
+      "key": "NZD",
+      "title": "CK"
+    },
+    {
+      "key": "CRC",
+      "title": "CR"
+    },
+    {
+      "key": "XOF",
+      "title": "CI"
+    },
+    {
+      "key": "HRK",
+      "title": "HR"
+    },
+    {
+      "key": "CUP",
+      "title": "CU"
+    },
+    {
+      "key": "ANG",
+      "title": "CW"
+    },
+    {
+      "key": "EUR",
+      "title": "CY"
+    },
+    {
+      "key": "CZK",
+      "title": "CZ"
+    },
+    {
+      "key": "DKK",
+      "title": "DK"
+    },
+    {
+      "key": "DJF",
+      "title": "DJ"
+    },
+    {
+      "key": "XCD",
+      "title": "DM"
+    },
+    {
+      "key": "DOP",
+      "title": "DO"
+    },
+    {
+      "key": "IDR",
+      "title": "TL"
+    },
+    {
+      "key": "USD",
+      "title": "EC"
+    },
+    {
+      "key": "EGP",
+      "title": "EG"
+    },
+    {
+      "key": "SVC",
+      "title": "SV"
+    },
+    {
+      "key": "XAF",
+      "title": "GQ"
+    },
+    {
+      "key": "ERN",
+      "title": "ER"
+    },
+    {
+      "key": "EUR",
+      "title": "EE"
+    },
+    {
+      "key": "ETB",
+      "title": "ET"
+    },
+    {
+      "key": "FKP",
+      "title": "FK"
+    },
+    {
+      "key": "DKK",
+      "title": "FO"
+    },
+    {
+      "key": "FJD",
+      "title": "FJ"
+    },
+    {
+      "key": "EUR",
+      "title": "FI"
+    },
+    {
+      "key": "EUR",
+      "title": "FR"
+    },
+    {
+      "key": "EUR",
+      "title": "GF"
+    },
+    {
+      "key": "XPF",
+      "title": "PF"
+    },
+    {
+      "key": "EUR",
+      "title": "TF"
+    },
+    {
+      "key": "XAF",
+      "title": "GA"
+    },
+    {
+      "key": "GMD",
+      "title": "GM"
+    },
+    {
+      "key": "GEL",
+      "title": "GE"
+    },
+    {
+      "key": "EUR",
+      "title": "DE"
+    },
+    {
+      "key": "GHS",
+      "title": "GH"
+    },
+    {
+      "key": "GIP",
+      "title": "GI"
+    },
+    {
+      "key": "EUR",
+      "title": "GR"
+    },
+    {
+      "key": "DKK",
+      "title": "GL"
+    },
+    {
+      "key": "XCD",
+      "title": "GD"
+    },
+    {
+      "key": "EUR",
+      "title": "GP"
+    },
+    {
+      "key": "USD",
+      "title": "GU"
+    },
+    {
+      "key": "GTQ",
+      "title": "GT"
+    },
+    {
+      "key": "GBP",
+      "title": "GG"
+    },
+    {
+      "key": "GNF",
+      "title": "GN"
+    },
+    {
+      "key": "XOF",
+      "title": "GW"
+    },
+    {
+      "key": "GYD",
+      "title": "GY"
+    },
+    {
+      "key": "HTG",
+      "title": "HT"
+    },
+    {
+      "key": "AUD",
+      "title": "HM"
+    },
+    {
+      "key": "HNL",
+      "title": "HN"
+    },
+    {
+      "key": "HKD",
+      "title": "HK"
+    },
+    {
+      "key": "HUF",
+      "title": "HU"
+    },
+    {
+      "key": "ISK",
+      "title": "IS"
+    },
+    {
+      "key": "INR",
+      "title": "IN"
+    },
+    {
+      "key": "IDR",
+      "title": "ID"
+    },
+    {
+      "key": "IRR",
+      "title": "IR"
+    },
+    {
+      "key": "IQD",
+      "title": "IQ"
+    },
+    {
+      "key": "EUR",
+      "title": "IE"
+    },
+    {
+      "key": "GBP",
+      "title": "IM"
+    },
+    {
+      "key": "ILS",
+      "title": "IL"
+    },
+    {
+      "key": "EUR",
+      "title": "IT"
+    },
+    {
+      "key": "JMD",
+      "title": "JM"
+    },
+    {
+      "key": "JPY",
+      "title": "JP"
+    },
+    {
+      "key": "GBP",
+      "title": "JE"
+    },
+    {
+      "key": "JOD",
+      "title": "JO"
+    },
+    {
+      "key": "KZT",
+      "title": "KZ"
+    },
+    {
+      "key": "KES",
+      "title": "KE"
+    },
+    {
+      "key": "AUD",
+      "title": "KI"
+    },
+    {
+      "key": "EUR",
+      "title": "XK"
+    },
+    {
+      "key": "KWD",
+      "title": "KW"
+    },
+    {
+      "key": "KGS",
+      "title": "KG"
+    },
+    {
+      "key": "LAK",
+      "title": "LA"
+    },
+    {
+      "key": "EUR",
+      "title": "LV"
+    },
+    {
+      "key": "LBP",
+      "title": "LB"
+    },
+    {
+      "key": "LSL",
+      "title": "LS"
+    },
+    {
+      "key": "LRD",
+      "title": "LR"
+    },
+    {
+      "key": "LYD",
+      "title": "LY"
+    },
+    {
+      "key": "CHF",
+      "title": "LI"
+    },
+    {
+      "key": "EUR",
+      "title": "LT"
+    },
+    {
+      "key": "EUR",
+      "title": "LU"
+    },
+    {
+      "key": "MOP",
+      "title": "MO"
+    },
+    {
+      "key": "MKD",
+      "title": "MK"
+    },
+    {
+      "key": "MGA",
+      "title": "MG"
+    },
+    {
+      "key": "MWK",
+      "title": "MW"
+    },
+    {
+      "key": "MYR",
+      "title": "MY"
+    },
+    {
+      "key": "MVR",
+      "title": "MV"
+    },
+    {
+      "key": "XOF",
+      "title": "ML"
+    },
+    {
+      "key": "EUR",
+      "title": "MT"
+    },
+    {
+      "key": "USD",
+      "title": "MH"
+    },
+    {
+      "key": "EUR",
+      "title": "MQ"
+    },
+    {
+      "key": "MRU",
+      "title": "MR"
+    },
+    {
+      "key": "MUR",
+      "title": "MU"
+    },
+    {
+      "key": "EUR",
+      "title": "YT"
+    },
+    {
+      "key": "MXN",
+      "title": "MX"
+    },
+    {
+      "key": "USD",
+      "title": "FM"
+    },
+    {
+      "key": "MDL",
+      "title": "MD"
+    },
+    {
+      "key": "EUR",
+      "title": "MC"
+    },
+    {
+      "key": "MNT",
+      "title": "MN"
+    },
+    {
+      "key": "EUR",
+      "title": "ME"
+    },
+    {
+      "key": "XCD",
+      "title": "MS"
+    },
+    {
+      "key": "MAD",
+      "title": "MA"
+    },
+    {
+      "key": "MZN",
+      "title": "MZ"
+    },
+    {
+      "key": "MMK",
+      "title": "MM"
+    },
+    {
+      "key": "NAD",
+      "title": "NA"
+    },
+    {
+      "key": "AUD",
+      "title": "NR"
+    },
+    {
+      "key": "NPR",
+      "title": "NP"
+    },
+    {
+      "key": "EUR",
+      "title": "NL"
+    },
+    {
+      "key": "ANG",
+      "title": "AN"
+    },
+    {
+      "key": "XPF",
+      "title": "NC"
+    },
+    {
+      "key": "NZD",
+      "title": "NZ"
+    },
+    {
+      "key": "NIO",
+      "title": "NI"
+    },
+    {
+      "key": "XOF",
+      "title": "NE"
+    },
+    {
+      "key": "NGN",
+      "title": "NG"
+    },
+    {
+      "key": "NZD",
+      "title": "NU"
+    },
+    {
+      "key": "AUD",
+      "title": "NF"
+    },
+    {
+      "key": "KPW",
+      "title": "KP"
+    },
+    {
+      "key": "USD",
+      "title": "MP"
+    },
+    {
+      "key": "NOK",
+      "title": "NO"
+    },
+    {
+      "key": "OMR",
+      "title": "OM"
+    },
+    {
+      "key": "PKR",
+      "title": "PK"
+    },
+    {
+      "key": "USD",
+      "title": "PW"
+    },
+    {
+      "key": "JOD",
+      "title": "PS"
+    },
+    {
+      "key": "PAB",
+      "title": "PA"
+    },
+    {
+      "key": "PGK",
+      "title": "PG"
+    },
+    {
+      "key": "PYG",
+      "title": "PY"
+    },
+    {
+      "key": "PEN",
+      "title": "PE"
+    },
+    {
+      "key": "PHP",
+      "title": "PH"
+    },
+    {
+      "key": "NZD",
+      "title": "PN"
+    },
+    {
+      "key": "PLN",
+      "title": "PL"
+    },
+    {
+      "key": "EUR",
+      "title": "PT"
+    },
+    {
+      "key": "USD",
+      "title": "PR"
+    },
+    {
+      "key": "QAR",
+      "title": "QA"
+    },
+    {
+      "key": "EUR",
+      "title": "RE"
+    },
+    {
+      "key": "RON",
+      "title": "RO"
+    },
+    {
+      "key": "RUB",
+      "title": "RU"
+    },
+    {
+      "key": "RWF",
+      "title": "RW"
+    },
+    {
+      "key": "EUR",
+      "title": "BL"
+    },
+    {
+      "key": "GBP",
+      "title": "SH"
+    },
+    {
+      "key": "XCD",
+      "title": "KN"
+    },
+    {
+      "key": "XCD",
+      "title": "LC"
+    },
+    {
+      "key": "EUR",
+      "title": "MF"
+    },
+    {
+      "key": "EUR",
+      "title": "PM"
+    },
+    {
+      "key": "XCD",
+      "title": "VC"
+    },
+    {
+      "key": "WST",
+      "title": "WS"
+    },
+    {
+      "key": "EUR",
+      "title": "SM"
+    },
+    {
+      "key": "STN",
+      "title": "ST"
+    },
+    {
+      "key": "SAR",
+      "title": "SA"
+    },
+    {
+      "key": "XOF",
+      "title": "SN"
+    },
+    {
+      "key": "RSD",
+      "title": "RS"
+    },
+    {
+      "key": "RSD",
+      "title": "CS"
+    },
+    {
+      "key": "SCR",
+      "title": "SC"
+    },
+    {
+      "key": "SLL",
+      "title": "SL"
+    },
+    {
+      "key": "SGD",
+      "title": "SG"
+    },
+    {
+      "key": "ANG",
+      "title": "SX"
+    },
+    {
+      "key": "EUR",
+      "title": "SK"
+    },
+    {
+      "key": "EUR",
+      "title": "SI"
+    },
+    {
+      "key": "SBD",
+      "title": "SB"
+    },
+    {
+      "key": "SOS",
+      "title": "SO"
+    },
+    {
+      "key": "ZAR",
+      "title": "ZA"
+    },
+    {
+      "key": "GBP",
+      "title": "GS"
+    },
+    {
+      "key": "KRW",
+      "title": "KR"
+    },
+    {
+      "key": "SSP",
+      "title": "SS"
+    },
+    {
+      "key": "EUR",
+      "title": "ES"
+    },
+    {
+      "key": "LKR",
+      "title": "LK"
+    },
+    {
+      "key": "SDG",
+      "title": "SD"
+    },
+    {
+      "key": "SRD",
+      "title": "SR"
+    },
+    {
+      "key": "NOK",
+      "title": "SJ"
+    },
+    {
+      "key": "SZL",
+      "title": "SZ"
+    },
+    {
+      "key": "SEK",
+      "title": "SE"
+    },
+    {
+      "key": "CHF",
+      "title": "CH"
+    },
+    {
+      "key": "SYP",
+      "title": "SY"
+    },
+    {
+      "key": "TWD",
+      "title": "TW"
+    },
+    {
+      "key": "TJS",
+      "title": "TJ"
+    },
+    {
+      "key": "TZS",
+      "title": "TZ"
+    },
+    {
+      "key": "THB",
+      "title": "TH"
+    },
+    {
+      "key": "XOF",
+      "title": "TG"
+    },
+    {
+      "key": "NZD",
+      "title": "TK"
+    },
+    {
+      "key": "TOP",
+      "title": "TO"
+    },
+    {
+      "key": "TTD",
+      "title": "TT"
+    },
+    {
+      "key": "SHP",
+      "title": "TA"
+    },
+    {
+      "key": "TND",
+      "title": "TN"
+    },
+    {
+      "key": "TRY",
+      "title": "TR"
+    },
+    {
+      "key": "TMT",
+      "title": "TM"
+    },
+    {
+      "key": "USD",
+      "title": "TC"
+    },
+    {
+      "key": "AUD",
+      "title": "TV"
+    },
+    {
+      "key": "USD",
+      "title": "UM"
+    },
+    {
+      "key": "USD",
+      "title": "VI"
+    },
+    {
+      "key": "UGX",
+      "title": "UG"
+    },
+    {
+      "key": "UAH",
+      "title": "UA"
+    },
+    {
+      "key": "AED",
+      "title": "AE"
+    },
+    {
+      "key": "GBP",
+      "title": "GB"
+    },
+    {
+      "key": "USD",
+      "title": "US"
+    },
+    {
+      "key": "UYU",
+      "title": "UY"
+    },
+    {
+      "key": "UZS",
+      "title": "UZ"
+    },
+    {
+      "key": "VUV",
+      "title": "VU"
+    },
+    {
+      "key": "EUR",
+      "title": "VA"
+    },
+    {
+      "key": "VES",
+      "title": "VE"
+    },
+    {
+      "key": "VND",
+      "title": "VN"
+    },
+    {
+      "key": "XPF",
+      "title": "WF"
+    },
+    {
+      "key": "MAD",
+      "title": "EH"
+    },
+    {
+      "key": "YER",
+      "title": "YE"
+    },
+    {
+      "key": "ZMW",
+      "title": "ZM"
+    },
+    {
+      "asd": "ZWL",
+      "asdasd": "ZW"
+    }
+  ]
+}
